@@ -1,3 +1,3 @@
 # IoT
-## Colmena IoT SIMAP-MX2021.pdf
-## LoRaforIoT.pdf
+## Colmena IoT.pdf
+## LoRa for IoT.pdf
